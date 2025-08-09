@@ -1,3 +1,3 @@
 # cardGame
 card game
-Classes代替cocos2dx生成的项目模板中的Classes,同理Resources代替模板中的Resources
+Classes代替cocos2dx生成的项目模板中的Classes,同理Resources代替模板中的Resources，proj.win32代替模板中的proj.win32
